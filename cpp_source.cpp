@@ -6,6 +6,6 @@ using std::cout;
 
 int main()
 {
-	cout<<"Hello C++\n" //Code line with unknown syntax
+	cout<<"Hello C++\n"; //Fixed
 	return 0;
 }
